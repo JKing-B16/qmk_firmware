@@ -1,16 +1,17 @@
-# nano
+# philip king
 
-![nano](https://1.bp.blogspot.com/-goa_eXx1McA/WEhvoSdfDSI/AAAAAAAB_bM/XdstcXe_eKkQxuYcNI5cTySTVo3xZxaeQCEw/s640/IMG_20161207_101051.jpg)
-===
+This project contains a 3D Model developed for my son Philip to allow him to play Minecraft with a broken left arm.
 
-A 2x4 mini switch pad built using 6mm x 6mm tactile switches and a Pro Micro. [More info here.](http://www.40percent.club/2016/12/nano-tmk.html)
+![Philip](https://raw.githubusercontent.com/JKing-B16/images/master/controller.jpg)
 
-Keyboard Maintainer: QMK Community   
+A PSP joystick is used for WASD, with one additional button for each finger.
+
+Keyboard Maintainer: [Jake](https://github.com/JKing-B16)
 Hardware Supported: Pro Micro ATmega32U4  
-Hardware Availability: [PCB Files](https://github.com/di0ib/tmk_keyboard/tree/master/keyboard/nano/pcb)
+Hardware Availability: [PCB Files](https://github.com/JKing-B16/qmk_firmware/tree/master/keyboards/king/philip/3DModel)
 
 Make example for this keyboard (after setting up your build environment):  
 
-    make 40percentclub/nano:default
+    make king/philip:default
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
