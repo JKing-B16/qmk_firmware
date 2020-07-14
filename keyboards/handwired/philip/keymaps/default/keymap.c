@@ -90,11 +90,10 @@ void getWASD(void) {
     }
 }
 
+// TODO
+// should probably use register/unregister_code instead, it handles the adding/deleting/sending
 void matrix_scan_user() {
     getWASD();
-}
-
-void matrix_init_keymap(void) {
 }
 
 void keyboard_post_init_user(void) {
